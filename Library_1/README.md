@@ -33,5 +33,5 @@
 Сохраните скрипт в файл library_create.py.
 Запустите скрипт командой:
 ```
-python library_db.py
+python library_create.py
 ``` 
