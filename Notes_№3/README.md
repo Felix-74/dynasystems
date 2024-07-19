@@ -109,4 +109,3 @@ python manage.py runserver 5577
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Igor+Teplov)](https://git.io/typing-svg)
